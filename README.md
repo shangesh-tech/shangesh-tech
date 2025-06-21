@@ -113,7 +113,7 @@
 
 ## 📈 Contribution Bar
 
-![Preview](./assets/bar.jpg)
+![Preview](./assets/bar.png)
 
 
 
