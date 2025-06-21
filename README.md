@@ -113,7 +113,7 @@
 
 ## 📈 Contribution Bar
 
-![Preview](./assets/bar.png)
+![Preview](https://github.com/shangesh-tech/shangesh-tech/blob/main/assest/bar.png)
 
 
 
