@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/49bb3e98-0080-4569-ba2a-44a6a1c9ebd2)<h1 align="center">
+<h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=500&lines=Hi+I'm+Shangesh!;Full-Stack+Developer;Blockchain+Developer;Gen-AI+Developer;Building+Cool+Things+🚀" alt="Typing Animation" />
 </h1>
 
